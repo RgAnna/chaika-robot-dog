@@ -3,12 +3,6 @@
 
 ![Project Preview](https://github.com/RgAnna/chaika-robot-dog/blob/main/Refs/0001-0200.gif)
 
-![Project Preview](https://github.com/RgAnna/chaika-robot-dog/blob/main/Refs/chaika-robot-dog_02.jpg)
-
-![Project Preview](https://github.com/RgAnna/chaika-robot-dog/blob/main/Refs/chaika-robot-dog_03.jpg)
-
-![Project Preview](https://github.com/RgAnna/chaika-robot-dog/blob/main/Refs/chaika-robot-dog_04.jpg)
-
 ## Description
 
 This is a work-in-progress 3D model of a robot vacuum cleaner inspired by the iconic Soviet vacuum “Chaika” and the quadruped robot “Spot”.  
@@ -35,6 +29,12 @@ The visual style evokes nostalgia with its cheap yellow Soviet plastic aesthetic
 ___
 
 # 3D-модель робота-пылесоса 
+
+![Project Preview](https://github.com/RgAnna/chaika-robot-dog/blob/main/Refs/chaika-robot-dog_02.jpg)
+
+![Project Preview](https://github.com/RgAnna/chaika-robot-dog/blob/main/Refs/chaika-robot-dog_03.jpg)
+
+![Project Preview](https://github.com/RgAnna/chaika-robot-dog/blob/main/Refs/chaika-robot-dog_04.jpg)
 
 ## Описание
 
