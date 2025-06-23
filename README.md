@@ -30,7 +30,6 @@ ___
 
 # 3D-модель робота-пылесоса 
 
-![Project Preview](https://github.com/RgAnna/chaika-robot-dog/blob/main/Refs/Robot.gif)
 
 ![Project Preview](https://github.com/RgAnna/chaika-robot-dog/blob/main/Refs/chaika-robot-dog_02.jpg)
 
