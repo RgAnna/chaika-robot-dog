@@ -1,3 +1,9 @@
+## Post Soviet Vacuum Cleaner 3D Model
+
+![Project Preview](https://github.com/RgAnna/wild-robot-3d-models/blob/main/Render/Prezentasia2.png)
+
+Low-poly hard surface 3D model of a post-Soviet vacuum cleaner. Designed for stylized rendering, real-time applications, and asset packs for game environments.
+
 ## Description
 
 This asset represents a retro-styled vacuum cleaner inspired by post-Soviet household appliances. It is optimized for use in game engines, visual storytelling, and interactive scenes, where stylization and recognizable silhouettes are key.
@@ -21,9 +27,6 @@ This asset represents a retro-styled vacuum cleaner inspired by post-Soviet hous
 ---
 
 ## Work-in-Progress: Chaika Robot Vacuum
-
-![Project Preview](https://github.com/RgAnna/chaika-robot-dog/blob/main/Render/Robot_dog.gif)  
-![Project Preview](https://github.com/RgAnna/chaika-robot-dog/blob/main/Render/Robot_dog_Collage.png)
 
 ### Description
 
