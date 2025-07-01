@@ -1,7 +1,9 @@
 
 # 3D-модель Post Soviet Vacuum Cleaner
 
-![Project Preview](https://github.com/RgAnna/chaika-robot-dog/blob/main/Refs/Robot.gif)
+![Project Preview](https://github.com/RgAnna/chaika-robot-dog/blob/main/Render/Robot_dog.gif)
+
+
 
 ## Description
 
