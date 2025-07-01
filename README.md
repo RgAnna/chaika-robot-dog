@@ -28,28 +28,6 @@ This asset represents a retro-styled vacuum cleaner inspired by post-Soviet hous
 
 ---
 
-## Work-in-Progress: Chaika Robot Vacuum
-
-### Description
-
-This is a work-in-progress 3D model of a robot vacuum cleaner inspired by the iconic Soviet vacuum “Chaika” and the quadruped robot “Spot”.  
-The visual style evokes nostalgia with its cheap yellow Soviet plastic aesthetic, making it feel like a device that could’ve stood in every Soviet apartment.
-
-### Technical Details
-
-- **Current Stage:** Scene blockout, lighting setup, and basic material pass completed  
-- **Next Steps:** High poly modeling → Low poly retopology → Baking → Texturing  
-- **Model Type:** WIP — Upcoming: High Poly / Low Poly  
-- **Software Used:** Blender (modeling, lighting, materials)  
-
-### Planned Features
-
-- Stylized robot vacuum cleaner with Soviet design motifs  
-- Nostalgic, believable materials and detailing  
-- High-to-low poly pipeline for optimized game-ready asset  
-- Fully custom shading using Blender's node system
-
----
 
 # 3D-модель Пылесоса в Постсоветском Стиле
 
@@ -57,25 +35,26 @@ The visual style evokes nostalgia with its cheap yellow Soviet plastic aesthetic
 ![Project Preview](https://github.com/RgAnna/chaika-robot-dog/blob/main/Refs/chaika-robot-dog_03.jpg)  
 ![Project Preview](https://github.com/RgAnna/chaika-robot-dog/blob/main/Refs/chaika-robot-dog_04.jpg)
 
+
+
+Низкополигональная 3D-модель пылесоса с твердой поверхностью постсоветского периода. Разработана для стилизованного рендеринга, приложений в реальном времени и пакетов ресурсов для игровых сред.
+
 ## Описание
 
-Это незавершённая 3D-модель робота-пылесоса, вдохновлённая советским пылесосом **«Чайка»** и роботом **Spot**.  
-Я хотела, чтобы зритель, глядя на модель, вспомнил знакомый «дешёвый и ужасный» советский пластик. Так, как будто такой пылесос мог бы стоять в любой квартире СССР.
+Этот ресурс представляет собой пылесос в ретро-стиле, вдохновленный постсоветской бытовой техникой. Он оптимизирован для использования в игровых движках, визуальном повествовании и интерактивных сценах, где стилизация и узнаваемые силуэты являются ключевыми.
 
-## Технические характеристики
+## Характеристики
 
-- **Текущий этап:** Сделан блокинг, компоновка сцены, настройка освещения и базовых материалов  
-- **Предстоит:** High Poly → Low Poly → Запекание → Текстурирование  
-- **Тип модели:** В процессе — готовятся High Poly и Low Poly версии  
-- **ПО:** Blender (моделинг, свет, материалы)  
-
-## Особенности (в планах)
-
-- Стилизованный робот-пылесос с элементами советского дизайна  
-- Атмосферные и узнаваемые материалы «того времени»  
-- Полный пайплайн от хайполи до запечённых текстур  
-- Все материалы и шейдеры создаются в Blender
-
+- Количество треугольников: 11 294 tris
+- Количество граней: 5 747
+- Плотность текселей: 1000–1100 px/m
+- Разрешение текстуры: 2048×2048
+- Пиксельное поле: 4 / 2
+- Тип модели: Твердая поверхность, низкополигональная
+- UV: Развернутая с перекрытиями
+- Форматы моделей: FBX, OBJ, BLEND
+- Точка вращения по центру основания модели
+  
 ---
 
 ## Контакты
