@@ -3,7 +3,7 @@
 
 ![Project Preview](https://github.com/RgAnna/chaika-robot-dog/blob/main/Render/Robot_dog.gif)
 
-
+![Project Preview](https://github.com/RgAnna/chaika-robot-dog/blob/main/Render/Robot_dog_Collage.png)
 
 ## Description
 
